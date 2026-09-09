@@ -1,0 +1,21 @@
+{
+  "dotnet.defaultSolution": "App.sln",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    ".vscode": true,
+    ".gitignore": true,
+    ".gtignore": true,
+    "App.sln": true,
+    // "App.Tests/App.Tests.csproj": true,
+    "App.Tests/bin": true,
+    "App.Tests/obj": true,
+    // "App/App.csproj": true,
+    "App/bin": true,
+    "App/obj": true,
+    "LICENSE": true
+  }
+}

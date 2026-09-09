@@ -1,0 +1,8 @@
+.vscode/
+.gitignore
+.gtignore
+README.md
+LICENSE
+App.sln
+App/App.csproj
+App.Tests/App.Tests.csproj
